@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**minimays/minimays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is May, I'm a freelancer based in Málaga, Spain.
 
-Here are some ideas to get you started:
+3 years ago I jumped into a adventure I was very curious to try. Being a freelancer was a must because I wanted to test my capability to thrive in my own way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks to that I've learned a lot about management, business strategy and problem solving. I also had the luck to work on several projects (big and small) driving the technical part of each launch with crazy deadlines for brands like 8Belts or VDanceClub generating more than 1M €/per year.
+
+So, this is how I sum up my job: I help agencies launch digital products for their clients, making them grow and sell. I am the technical part of the team and landing pages, forms, automations and metrics are under my responsibilities.
+
+### Actually:
+My specialties including quick learning new skills are design, responsive design principles, website optimization, creating component libraries, automating marketing processes. I also have in HTML, CSS, Git/GitHub, bootstrap and email marketing automation recipes under my belt and my main focus right now is leveling up my JS.
+
+### A bit more:
+- 🌱 I’m currently learning programming in C.
+- 📫 How to reach me: [LinkedIn]([https://www.example.com](https://www.linkedin.com/in/meyallidem/)https://www.linkedin.com/in/meyallidem/)
+- ⚡ More updates coming soon.
+

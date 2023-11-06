@@ -13,6 +13,6 @@ My specialties including quick learning new skills are design, responsive design
 
 ### A bit more:
 - 🌱 I’m currently learning programming in C.
-- 📫 How to reach me: [LinkedIn]([https://www.example.com](https://www.linkedin.com/in/meyallidem/)https://www.linkedin.com/in/meyallidem/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/meyallidem/)
 - ⚡ More updates coming soon.
 

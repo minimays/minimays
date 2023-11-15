@@ -16,3 +16,5 @@ My specialties including quick learning new skills are design, responsive design
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/meyallidem/)
 - ⚡ More updates coming soon.
 
+Technical skills in:
+[![Technical skills in:](https://skillicons.dev/icons?i=html,css,git,codepen,figma)](https://skillicons.dev)
